@@ -9,7 +9,7 @@
         "deferred_capture": "supported",
         "settings": [
             {
-                "card_number": {
+                "card_number": {4027666118886927
                     "validation": "standard",
                     "length": 15
                 },
